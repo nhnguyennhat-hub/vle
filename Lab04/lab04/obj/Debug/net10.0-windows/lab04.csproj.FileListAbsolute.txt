@@ -1,0 +1,17 @@
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\PaintApp.Form1.resources
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.csproj.GenerateResource.cache
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\lab04\lab04\bin\Debug\net10.0-windows\lab04.exe
+C:\Users\nhngu\Downloads\lab04\lab04\bin\Debug\net10.0-windows\lab04.deps.json
+C:\Users\nhngu\Downloads\lab04\lab04\bin\Debug\net10.0-windows\lab04.runtimeconfig.json
+C:\Users\nhngu\Downloads\lab04\lab04\bin\Debug\net10.0-windows\lab04.dll
+C:\Users\nhngu\Downloads\lab04\lab04\bin\Debug\net10.0-windows\lab04.pdb
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.dll
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\refint\lab04.dll
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.pdb
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\ref\lab04.dll
+C:\Users\nhngu\Downloads\lab04\lab04\obj\Debug\net10.0-windows\lab04.csproj.Up2Date
