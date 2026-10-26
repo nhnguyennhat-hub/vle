@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lab03_1 baitap1/1.0.0": {
+        "runtime": {
+          "lab03_1 baitap1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab03_1 baitap1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
